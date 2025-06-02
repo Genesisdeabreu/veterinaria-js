@@ -1,28 +1,45 @@
 # 🐾 Veterinaria JS
 
-Este es un proyecto backend desarrollado con Node.js para gestionar citas de una veterinaria.  
-Permite registrar y visualizar citas a través de la terminal usando argumentos por línea de comandos.
+Proyecto backend simple creado con **Node.js**, que permite gestionar citas de una veterinaria desde la terminal usando argumentos por línea de comandos.
 
 ---
 
-## 🚀 ¿Cómo funciona?
+## 🛠️ Tecnologías usadas
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![File System](https://img.shields.io/badge/File_System-gray?style=for-the-badge)
+
+---
+
+## 🚀 ¿Cómo usarlo?
 
 ### ▶️ Registrar una cita
 
 ```bash
 node index.js registrar Benito "2 años" perro blanco vomitos
 
-📋 Leer todas las citas
+
+###📋 Leer todas las citas
 node index.js leer
 
-📁 Estructura del proyecto
+###📁 Estructura del proyecto
 veterinaria-js/
 ├── index.js
 ├── operaciones.js
 ├── citas.json
 └── .gitignore
 
-📋 Requerimientos cumplidos del desafío:
+index.js: archivo principal que interpreta los comandos desde la terminal.
+
+operaciones.js: contiene las funciones para registrar y leer citas.
+
+citas.json: archivo que actúa como base de datos local.
+
+.gitignore: evita subir archivos innecesarios.
+
+
+###📋 Requerimientos cumplidos del desafío
 ✅ Ejecutar scripts con Node Js desde la terminal
 
 ✅ Crear archivos con el módulo File System
@@ -34,12 +51,8 @@ veterinaria-js/
 ✅ Utilizar argumentos escritos por línea de comandos
 
 
-💻 Tecnologías utilizadas
-✅ Node.js
+###👩‍💻 Autor
 
-✅ JavaScript
-
-✅ File System (fs)
-
-📌 Autor
-Proyecto desarrollado por Génesis de Abreu como parte del desafío técnico de backend básico con Node.js de Desafío Latam.
+**Génesis de Abreu**  
+Desarrolladora Frontend Junior 💻✨  
+[GitHub](https://github.com/Genesisdeabreu)
