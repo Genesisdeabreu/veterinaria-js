@@ -19,11 +19,12 @@ Proyecto backend simple creado con **Node.js**, que permite gestionar citas de u
 ```bash
 node index.js registrar Benito "2 años" perro blanco vomitos
 
-
-###📋 Leer todas las citas
+---
+📋 Leer todas las citas
 node index.js leer
 
-###📁 Estructura del proyecto
+---
+📁 Estructura del proyecto
 veterinaria-js/
 ├── index.js
 ├── operaciones.js
@@ -31,28 +32,21 @@ veterinaria-js/
 └── .gitignore
 
 index.js: archivo principal que interpreta los comandos desde la terminal.
-
 operaciones.js: contiene las funciones para registrar y leer citas.
-
 citas.json: archivo que actúa como base de datos local.
-
 .gitignore: evita subir archivos innecesarios.
 
 
-###📋 Requerimientos cumplidos del desafío
+---
+📋 Requerimientos cumplidos del desafío
 ✅ Ejecutar scripts con Node Js desde la terminal
-
 ✅ Crear archivos con el módulo File System
-
 ✅ Leer archivos con el módulo File System
-
 ✅ Importar y exportar módulos en Node Js
-
 ✅ Utilizar argumentos escritos por línea de comandos
 
-
-###👩‍💻 Autor
-
-**Génesis de Abreu**  
+---
+👩‍💻 Autor
+Génesis de Abreu 
 Desarrolladora Frontend Junior 💻✨  
 [GitHub](https://github.com/Genesisdeabreu)
