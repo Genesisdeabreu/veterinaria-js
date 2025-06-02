@@ -16,15 +16,15 @@ Proyecto backend simple creado con **Node.js**, que permite gestionar citas de u
 
 ### ▶️ Registrar una cita
 
-```bash
+bash
 node index.js registrar Benito "2 años" perro blanco vomitos
 
 ---
-📋 Leer todas las citas
+###📋 Leer todas las citas
 node index.js leer
 
 ---
-📁 Estructura del proyecto
+###📁 Estructura del proyecto
 veterinaria-js/
 ├── index.js
 ├── operaciones.js
@@ -38,7 +38,7 @@ citas.json: archivo que actúa como base de datos local.
 
 
 ---
-📋 Requerimientos cumplidos del desafío
+###📋 Requerimientos cumplidos del desafío
 ✅ Ejecutar scripts con Node Js desde la terminal
 ✅ Crear archivos con el módulo File System
 ✅ Leer archivos con el módulo File System
@@ -46,7 +46,7 @@ citas.json: archivo que actúa como base de datos local.
 ✅ Utilizar argumentos escritos por línea de comandos
 
 ---
-👩‍💻 Autor
-Génesis de Abreu 
+###👩‍💻 Autor
+**Génesis de Abreu**
 Desarrolladora Frontend Junior 💻✨  
 [GitHub](https://github.com/Genesisdeabreu)
