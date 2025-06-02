@@ -27,24 +27,25 @@ node index.js leer
 ---
 
 ### 📁 Estructura del proyecto
-veterinaria-js/
-- index.js: archivo principal que interpreta los comandos desde la terminal.
-- operaciones.js: contiene las funciones para registrar y leer citas.
-- citas.json: archivo que actúa como base de datos local.
-- .gitignore: evita subir archivos innecesarios.
+- **veterinaria-js/**: carpeta raíz del proyecto
+- **index.js**: archivo principal que interpreta los comandos desde la terminal
+- **operaciones.js**: contiene las funciones para registrar y leer citas
+- **citas.json**: archivo que actúa como base de datos local
+- **.gitignore**: evita subir archivos innecesarios al repositorio
+
 
 ---
 
 ### 📋 Requerimientos cumplidos del desafío
-+ Ejecutar scripts con Node Js desde la terminal
-+ Crear archivos con el módulo File System
-+ Leer archivos con el módulo File System
-+ Importar y exportar módulos en Node Js
-+ Utilizar argumentos escritos por línea de comandos
+1. Ejecutar scripts con Node Js desde la terminal✅
+2. Crear archivos con el módulo File System✅  
+3. Leer archivos con el módulo File System✅  
+4. Importar y exportar módulos en Node Js✅  
+5. Utilizar argumentos escritos por línea de comandos✅  
 
 ---
 
 ### 👩‍💻 Autor
-**Génesis de Abreu**
-Desarrolladora Frontend Junior 💻✨  
+**Génesis de Abreu**  
+*Desarrolladora Frontend Junior* 💻✨  
 [GitHub](https://github.com/Genesisdeabreu)
